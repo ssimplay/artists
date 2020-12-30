@@ -243,29 +243,29 @@ button {
     .month li:hover {
       transform: rotate(8deg); }
   .month .mimg01 {
-    background: url(/images/m01.jpg) -100px -100px; }
+    background: url(../images/m01.jpg) -100px -100px; }
   .month .mimg02 {
-    background: url(/images/m02.png) -100px -100px; }
+    background: url(../images/m02.png) -100px -100px; }
   .month .mimg03 {
-    background: url(/images/m03.jpg) -100px -100px; }
+    background: url(../images/m03.jpg) -100px -100px; }
   .month .mimg04 {
-    background: url(/images/m04.jpg) -100px -100px; }
+    background: url(../images/m04.jpg) -100px -100px; }
   .month .mimg05 {
-    background: url(/images/m05.jpg) -100px -100px; }
+    background: url(../images/m05.jpg) -100px -100px; }
   .month .mimg06 {
-    background: url(/images/m06.jpg) -100px -100px; }
+    background: url(../images/m06.jpg) -100px -100px; }
   .month .mimg07 {
-    background: url(/images/m07.jpg) -100px -100px; }
+    background: url(../images/m07.jpg) -100px -100px; }
   .month .mimg08 {
-    background: url(/images/m08.jpg) -100px -100px; }
+    background: url(../images/m08.jpg) -100px -100px; }
   .month .mimg09 {
-    background: url(/images/m09.jpg) -100px -100px; }
+    background: url(../images/m09.jpg) -100px -100px; }
   .month .mimg10 {
-    background: url(/images/m10.jpg) -100px -100px; }
+    background: url(../images/m10.jpg) -100px -100px; }
   .month .mimg11 {
-    background: url(/images/m11.jpg) -100px -100px; }
+    background: url(../images/m11.jpg) -100px -100px; }
   .month .mimg12 {
-    background: url(/images/m12.jpg) -100px -100px; }
+    background: url(../images/m12.jpg) -100px -100px; }
   .month li:nth-child(1) {
     background: lavender; }
   .month li:nth-child(2) {
